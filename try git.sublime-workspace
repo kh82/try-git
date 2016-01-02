@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"super",
+				"superheroes"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"new",
+				"new"
+			],
+			[
+				"get",
+				"get_name"
+			],
+			[
+				"midd",
+				"middle_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"multi",
+				"multiline_string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Co",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 293.0,
+		"history":
+		[
+			"ruby"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/k/web/node-js/real-time-web/hello.js",
+		"/home/k/web/angular-js/staying-sharp/js/directives/title.js",
+		"/home/k/web/angular-js/staying-sharp/templates/directives/nw-card.html",
+		"/home/k/web/angular-js/staying-sharp/index.html",
+		"/home/k/web/angular-js/staying-sharp/templates/pages/notes/index.html",
+		"/home/k/web/angular-js/staying-sharp/js/notes.json",
+		"/home/k/web/angular-js/staying-sharp/js/directives/nw-category-item.js",
+		"/home/k/web/angular-js/staying-sharp/js/directives/nw-category-select.js",
+		"/home/k/web/angular-js/staying-sharp/templates/directives/nw-category-select.html",
+		"/home/k/web/angular-js/staying-sharp/templates/directives/nw-category-item.html",
+		"/home/k/web/angular-js/staying-sharp/js/directives/nw-card.js",
+		"/home/k/web/angular-js/staying-sharp/templates/pages/notes/show.html",
+		"/home/k/web/angular-js/staying-sharp/js/categories.json",
+		"/home/k/web/angular-js/staying-sharp/css/app.css",
+		"/home/k/web/angular-js/staying-sharp/js/services/category.js",
+		"/home/k/web/angular-js/staying-sharp/js/controllers/notes-index-controller.js",
+		"/home/k/web/angular-js/staying-sharp/js/controllers/notes-show-controller.js",
+		"/home/k/web/angular-js/staying-sharp/js/services/note.js",
+		"/home/k/web/angular-js/staying-sharp/js/services/user.js",
+		"/home/k/web/angular-js/staying-sharp/js/services/gravatar.js",
+		"/home/k/web/angular-js/staying-sharp/js/routes.js",
+		"/home/k/web/angular-js/staying-sharp/js/app.js",
+		"/home/k/web/angular-js/staying-sharp/js/users.json",
+		"/home/k/web/angular-js/staying-sharp/js/controllers/users-index-controller.js",
+		"/home/k/web/angular-js/staying-sharp/js/controllers/note-create-controller.js",
+		"/home/k/web/angular-js/staying-sharp/bower_components/angular-crypto/README.md",
+		"/home/k/web/angular-js/staying-sharp/bower_components/angular-crypto/angular-crypto.js",
+		"/home/k/web/angular-js/staying-sharp/bower_components/cryptojs/README.md",
+		"/home/k/web/angular-js/staying-sharp/bower_components/cryptojs/lib/MD5.js",
+		"/home/k/web/angular-js/staying-sharp/bower_components/cryptojs/cryptojs.js",
+		"/home/k/web/angular-js/staying-sharp/bower_components/crypto/crypto.js",
+		"/home/k/web/angular-js/staying-sharp/bower_components/crypto/crypto.min.js",
+		"/home/k/web/angular-js/staying-sharp/templates/pages/users/index.html",
+		"/home/k/web/angular-js/staying-sharp/js/controllers/notes-edit-controller.js",
+		"/home/k/web/angular-js/staying-sharp/bower_components/markdown/bin/md2html.js",
+		"/home/k/web/angular-js/staying-sharp/templates/users/index.html",
+		"/home/k/web/angular-js/staying-sharp/templates/notes/index.html",
+		"/home/k/web/angular-js/wahlin/js/app.js",
+		"/home/k/web/angular-js/wahlin/css/app.css",
+		"/home/k/web/angular-js/wahlin/index.html",
+		"/home/k/web/angular-js/shaping-up/index.html",
+		"/home/k/web/angular-js/egghead/index.start.html",
+		"/home/k/web/angular-js/shaping-up/js/app.js",
+		"/home/k/web/angular-js/shaping-up/product-panels.html",
+		"/home/k/web/angular-js/shaping-up/js/products.json",
+		"/home/k/web/angular-js/shaping-up/js/products.js",
+		"/home/k/web/angular-js/shaping-up/product-title.html",
+		"/home/k/web/angular-js/shaping-up/css/app.css",
+		"/home/k/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/k/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/k/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/k/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/k/web/angular-js/shaping-up/bower_components/angular/angular.js",
+		"/home/k/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/k/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/k/web/laravel/blog/app/Http/Controllers/Controller.php",
+		"/home/k/web/ruby/rails/spblog/config/database.yml",
+		"/home/k/web/ruby/rails/spblog/Gemfile",
+		"/home/k/web/ruby/rails/spblog/Rakefile",
+		"/home/k/web/ruby/rails/readit/config/database.yml",
+		"/home/k/web/ruby/rails/readit/app/views/welcome/index.html.erb",
+		"/home/k/web/ruby/rails/readit/app/controllers/welcome_controller.rb",
+		"/home/k/web/ruby/rails/readit/config/routes.rb",
+		"/home/k/web/ruby/rails/readit/app/views/welcome/sample.html.erb",
+		"/home/k/web/ruby/rails/readit/Gemfile",
+		"/home/k/web/ruby/exercises/smart.rb",
+		"/home/k/web/ruby/exercises/human.rb",
+		"/home/k/web/ruby/exercises/ruby2.rb",
+		"/home/k/web/ruby/exercises/tasks/Gemfile",
+		"/home/k/web/ruby/exercises/ruby1.rb",
+		"/home/k/web/angular/exercises/code-view/code-view-1.php",
+		"/home/k/web/angular/exercises/dan-wahlin.php",
+		"/home/k/web/angular/exercises/dan-wahlin-2.php",
+		"/home/k/web/angular/node_modules/angular/angular.js",
+		"/home/k/web/graeme/css/font-awesome.min.css",
+		"/home/k/web/graeme/resources/font-awesome-4.3.0/css/font-awesome.css",
+		"/home/k/web/graeme/css/bootstrap.min.css",
+		"/home/k/web/graeme/web-parts/header.php",
+		"/home/k/web/graeme/web-parts/footer.php",
+		"/home/k/web/graeme/web-parts/home-banner.php",
+		"/home/k/web/graeme/web-parts/content-start.html",
+		"/home/k/web/graeme/web-parts/content-end.html",
+		"/home/k/web/ag-workforce/pages/our sectors.html",
+		"/home/k/web/ag-workforce/pages/BEN ROBERTS.html",
+		"/home/k/web/ag-workforce/pages/HUGH STRAHORN.html",
+		"/home/k/web/ag-workforce/pages/PIPPA ELLIS.html",
+		"/home/k/web/ag-workforce/pages/LINDA BRANDENBURG.html",
+		"/home/k/web/ag-workforce/pages/meet our team.html",
+		"/home/k/web/ag-workforce/pages/SIMON STRAHORN.html",
+		"/home/k/web/adecco-singapore/pages/better work better life.html",
+		"/home/k/web/adecco-singapore/pages/inner.html",
+		"/home/k/web/adecco-singapore/pages/vision and mission.html",
+		"/home/k/web/adecco-singapore/pages/worldwide overview.html",
+		"/home/k/web/adecco-singapore/pages/singapore leadership.html",
+		"/home/k/web/adecco-singapore/pages/company profile.html",
+		"/home/k/web/adecco-singapore/pages/overview.html",
+		"/home/k/web/todo.html",
+		"/home/k/web/creative-recruiters/web-parts.html/job ad template jobx.html",
+		"/home/k/web/creative-recruiters/web-parts.html/job-ad-template.html",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/home/k/web/test.php",
+		"/home/k/000-default.conf",
+		"/etc/apache2/apache2.conf",
+		"/home/k/web/dfp-recruitment/dfp recruitment.sublime-workspace",
+		"/home/k/test.js",
+		"/home/k/hw.html"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 144.0,
+		"where_history":
+		[
+			"/home/k/web/angular-js/staying-sharp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstr",
+			"nw-card",
+			"gravatar",
+			"md5(",
+			"md5",
+			"title\"",
+			"\"description\":",
+			"		\"icon\": \"fa-note\", ",
+			"My Note ",
+			"description",
+			"my note",
+			"jquer",
+			"'",
+			"panels",
+			"panel.",
+			"panel",
+			"panelco",
+			"{review.",
+			"ng-show=\"tab === ",
+			"ctrl+alt+",
+			"@fon",
+			";\n",
+			"<a>",
+			"href=\"\"",
+			"*{",
+			"*",
+			"<h3></h3>",
+			"http://images.jxt.net.au/ag-workforce/images/team/",
+			"wrap",
+			"abbrev",
+			"The Adecco Group is the world's leading provider of HR solutions. With over 31,000 FTE employees and over 5,200 branches, in over 60 countries and territories around the world, we offer a wide variety of services, connecting more than 650,000 associates with over 100,000 clients every day.",
+			"The",
+			"wrap",
+			"The",
+			"expa",
+			"The Adecco Group is the world's leading provider of HR solutions. With over 31,000 FTE employees and over 5,200 branches, in over 60 countries and territories around the world, we offer a wide variety of services, connecting more than 650,000 associates with over 100,000 clients every day.\n\nThe services we offer fall into the broad categories of temporary staffing, permanent placement, career transition and talent development, as well as outsourcing and consulting. The Adecco Group is based in Zurich-Glattbrugg, Switzerland and we are a Fortune Global 500 company listed on the SIX Swiss Exchange.\n\nIf you are motivated to make a positive change, we want to give you the resources you need to shape and achieve your personal and professional goals and improve your situation — at work, at home, in business, and in life. To that end, we offer life skills, career development and specialized expertise.\n\nWe apply our core values to support, nurture and provide the maximum benefit to our talented, committed people. These are the beliefs that underlie our culture:",
+			"lifelongstaffing.com.au",
+			"creativerecruiters.com.au",
+			"root"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"name\"",
+			"\"bio\":",
+			"",
+			"Joe blogs ",
+			"\"",
+			"{reviewCtrl.review.",
+			"ng-show=\"panel.isSelected(",
+			"<div class=\"col-lg-3 col-sm-6 col-xs-12\">",
+			"href=\"/.php\"",
+			"<ul>\\n\\t\\t\\t\\n</ul>",
+			"<ul>\\n\\t\\t</ul>",
+			"<ul>\\n\\t\\t\\t</ul>",
+			"/media/ag-workforce/team/",
+			"thehunch.com.au",
+			"lifelongstaffing.com.au"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "try git.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
